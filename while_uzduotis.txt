@@ -1,0 +1,7 @@
+n = int(input("Įveskite skaičių n: "))
+
+i = 1
+while i <= n:
+    kubas = i ** 3
+    print(f"Skaičiaus {i} kubas yra: {kubas}")
+    i += 1
