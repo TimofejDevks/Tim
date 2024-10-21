@@ -1,0 +1,7 @@
+sveikas_skaicius = 42
+realus_skaicius = float(sveikas_skaicius)
+print(f"Sveikasis  {sveikas_skaicius} ralus: {realus_skaicius}")
+
+realus_skaicius = 3.14
+sveikas_skaicius = int(realus_skaicius)
+print(f"Realus  {realus_skaicius} sveikas: {sveikas_skaicius}")
